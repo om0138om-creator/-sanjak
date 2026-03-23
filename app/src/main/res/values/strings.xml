@@ -1,4 +1,3 @@
-<!-- app/src/main/res/values/strings.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">QuickShare</string>
@@ -6,7 +5,6 @@
     <string name="developer_telegram">https://t.me/Om9r0</string>
     <string name="designed_by">تم تصميم التطبيق بواسطة عمر سنجق</string>
     
-    <!-- الأزرار -->
     <string name="send">إرسال</string>
     <string name="receive">استقبال</string>
     <string name="cancel">إلغاء</string>
