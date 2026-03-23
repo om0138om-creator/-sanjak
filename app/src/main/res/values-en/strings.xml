@@ -1,8 +1,9 @@
-<!-- app/src/main/res/values-en/strings.xml -->
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">QuickShare</string>
-    <string name="developer_name">Omar Sinjaq</string>
-    <string name="developer_telegram">https://t.me/Om9r0</string>
-    <string name="designed_by">Designed by Omar Sinjaq</string>
+    <string name="developer_name">Omar Sanjak</string>
+    <string name="send_files">Send Files</string>
+    <string name="receive_files">Receive Files</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
 </resources>
