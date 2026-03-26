@@ -7,7 +7,7 @@
         android:label="@string/app_name"
         android:roundIcon="@android:mipmap/sym_def_app_icon"
         android:supportsRtl="true"
-        android:theme="@style/Theme.QuickShare">
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
         
         <activity
             android:name=".MainActivity"
